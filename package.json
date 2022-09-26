@@ -1,0 +1,23 @@
+{
+  "name": "ecli-tool",
+  "version": "0.0.3",
+  "description": "",
+  "main": "index.js",
+  "bin": {
+    "ecli": "bin/ecli"
+  },
+  
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "leowgss",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "commander": "^9.4.0",
+    "inquirer": "^8.0.0",
+    "minimist": "^1.2.6",
+    "validate-npm-package-name": "^4.0.0"
+  }
+}

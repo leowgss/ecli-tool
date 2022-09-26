@@ -1,0 +1,11 @@
+__tests__
+# vscode
+.vscode
+
+# node.js
+/node_modules
+package-lock.json
+
+# yarn
+yarn.lock
+
